@@ -1,4 +1,6 @@
 # IO-game-Navigator
+## Collaborator: BootyChu
+### Link: https://github.com/BootyChu
 
 ## Link of the web:
 https://io-game-navigator.bootychu.repl.co/index.html
